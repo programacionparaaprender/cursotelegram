@@ -1,0 +1,8 @@
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.csprojAssemblyReference.cache
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.frmPrincipal.resources
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.Properties.Resources.resources
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.csproj.GenerateResource.cache
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.exe
+C:\Users\Bus209\Documents\htdocs\cursotelegram\BotTelegramConnect\TelegramBot\obj\Debug\TelegramBot.pdb

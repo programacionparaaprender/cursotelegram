@@ -1,0 +1,37 @@
+{
+    "ok":true,
+    "result":[
+        {
+            "update_id":137970203,
+            "message":
+            {
+                "message_id":12,
+                "from":
+                {
+                    "id":961014823,
+                    "is_bot":false,
+                    "first_name":"Luis",
+                    "last_name":"Correa",
+                    "username":"luis13711",
+                    "language_code":"es"},
+                    "chat":
+                    {
+                        "id":961014823,
+                        "first_name":"Luis",
+                        "last_name":"Correa",
+                        "username":"luis13711",
+                        "type":"private"
+                    },
+                    "date":1611428278,
+                    "text":"/test",
+                    "entities":[
+                        {
+                            "offset":0,
+                            "length":5,
+                            "type":"bot_command"
+                        }
+                    ]
+            }
+        }
+    ]
+}
